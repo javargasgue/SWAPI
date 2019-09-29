@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Servicio</string>
+    <string name="title_activity_pant">Pant</string>
+    <string name="title_activity_pantalla_people">PantallaPeople</string>
+</resources>
